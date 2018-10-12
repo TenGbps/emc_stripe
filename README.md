@@ -1,6 +1,8 @@
 # emc_stripe
 EMC Symmetrix V-Max Systems - Blue Light Stripe Control
 
+This is a reverse engineering of blue ligth stripe on V-Max door.
+This led stripe using a CY7C63803-SXC microcontroller.
 
 Exemple:
 ```
